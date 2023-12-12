@@ -3,7 +3,8 @@ Hello everybody!
 
 We are an interest group that provides Unity Asset and hope to help independent game developers complete their own works.
 
-##Contact Mail: xiaomong2000@hotmail.com
+Contact Mail: xiaomong2000@hotmail.com
+
 You can submit any issues related to my Asset in the Issue, or contact me
 <!--
 **MaskJump/MaskJump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
